@@ -10,5 +10,5 @@ There are eight jobs (exercises) that primarily analyzes data using the Pandas l
 _- Looks at the number of wells_
 _- Makes sure that the Wellbore IDs are all the same lenght and the number of sidetrack wells_
 _- Drilling history, by decadea an makes bar chart_
-_- Tricontour map of elevations with colorbar__
+_- Tricontour map of elevations with colorbar_
 
