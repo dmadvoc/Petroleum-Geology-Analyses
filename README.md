@@ -6,4 +6,9 @@ There are eight jobs (exercises) that primarily analyzes data using the Pandas l
 - _Summarize data using pivot tables_
 - _Plot histograms, stacked histograms, pie chart, line and scatter plots using matplotlib and plotly_
 - _Plot a map of data points with topography using plotly_
+2. **Ex1 Well Header Ex** - Examines well headers for Teapot Dome Field wells
+_- Looks at the number of wells
+- Makes sure that the Wellbore IDs are all the same lenght and the number of sidetrack wells
+- Drilling history, by decadea an makes bar chart
+- Tricontour map of elevations with colorbar_
 
