@@ -1,6 +1,5 @@
 # Petroleum-Geology-Analyses
-This series of Python Scripts Interogates, analyzes and charts data sets commonly used by petroleum Geologist.
-There are eight jobs (exercises) that primarily analyzes data using the Pandas library:
+This series of Python Scripts Interogates, analyzes and charts data sets commonly used by petroleum Geologist. Data for the analyses come from Natrona County, Wyoming and Teapot Dome / Salt Creek Field complex. There are eight jobs exercises (Jupyter Notebooks) that primarily analyzes data using the Pandas library. The Jupyter Notebooks are summarized below, enumerating the the basic Python skill that were used:
 
 0. **Ex 0 Production Data analysis** - Looks at oil and gas productions data from Natrona County, Wyoming, USA for the year 2000.
 - _Examines a pandas dataframe_
