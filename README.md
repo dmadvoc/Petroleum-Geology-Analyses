@@ -6,18 +6,18 @@ This series of Python Scripts Interogates, analyzes and charts data sets commonl
 - _Summarize data using pivot tables_
 - _Plot histograms, stacked histograms, pie chart, line and scatter plots using matplotlib and plotly_
 - _Plot a map of data points with topography using plotly_
-2. **Ex1 Well Header Ex** - Examines well headers for Teapot Dome Field wells
+1. **Ex1 Well Header Ex** - Examines well headers for Teapot Dome Field wells
 - Looks at the number of wells
 - Makes sure that the Wellbore IDs are all the same lenght and the number of sidetrack wells
 - Drilling history, by decadea an makes bar chart
 - Tricontour map of elevations with colorbar_
-3. **Ex2 Tops** - Examine well formation top depths
+2. **Ex2 Tops** - Examine well formation top depths
 - Read CSV and Excel XLSX worksheets from Github
 - Examine data and make sure wellbore id numbers are strings of the same lenght
 - Merge dataframes
 - .count() functions
 - scatter plot with color ramp and tricontours
-4. **Ex3 Directions Survey_Interpolations** - Linear interpolation of measured depths to true vertical depths for formation tops
+3. **Ex3 Directions Survey_Interpolations** - Linear interpolation of measured depths to true vertical depths for formation tops
 - Read Excel XLSX worksheets from Github
 - Examine data
 - Merge dataframes
@@ -25,7 +25,7 @@ This series of Python Scripts Interogates, analyzes and charts data sets commonl
 - .shift() function to capture values from rows above and below (same as SAS's lag function)
 - .notna() - remove null (NaN) values
 - Scatter plot with annotated labels
-5. **Ex4 LogAnalysis 48-28x** - Reads and analyzes wireline (.las) file, core data and tops
+4. **Ex4 LogAnalysis 48-28x** - Reads and analyzes wireline (.las) file, core data and tops
 - Reads wireline .las file from Github using Lasio library
 - Reads Excel worksheets from Github
 - Defines and calculatets pay, bed ID and net sand
@@ -33,4 +33,5 @@ This series of Python Scripts Interogates, analyzes and charts data sets commonl
   - Uses groupby and merge_asof
   - Uses pivot_table, .columns, .drop, .to_sting
 - Plot wireline logs with tops annotated and core plug data and pay
-- Generate a probability distribution for core porosity 
+- Generate a probability distribution for core porosity
+- Report descriptive statistics 
