@@ -32,3 +32,5 @@ There are eight jobs (exercises) that primarily analyzes data using the Pandas l
   - Uses .sum, .cumsum, .drop functions
   - Uses groupby and merge_asof
   - Uses pivot_table, .columns, .drop, .to_sting
+- Plot wireline logs with tops annotated and core plug data and pay
+- Generate a probability distribution for core porosity 
