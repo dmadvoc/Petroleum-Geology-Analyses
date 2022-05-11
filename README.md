@@ -11,3 +11,17 @@ There are eight jobs (exercises) that primarily analyzes data using the Pandas l
 - Makes sure that the Wellbore IDs are all the same lenght and the number of sidetrack wells
 - Drilling history, by decadea an makes bar chart
 - Tricontour map of elevations with colorbar_
+3. **Ex2 Tops** - Examine well formation top depths
+- Read CSV and Excel XLSX worksheets from Github
+- Examine data and make sure wellbore id numbers are strings of the same lenght
+- Merge dataframes
+- .count() functions
+- scatter plot with color ramp and tricontours
+4. **Ex3 Directions Survey_Interpolations** - Linear interpolation of measured depths to true vertical depths for formation tops
+- Read Excel XLSX worksheets from Github
+- Examine data
+- Merge dataframes
+- Sort dataframes
+- .shift() function to capture values from rows above and below (same as SAS's lag function)
+- .notna() - remove null (NaN) values
+- Scatter plot with annotated labels
